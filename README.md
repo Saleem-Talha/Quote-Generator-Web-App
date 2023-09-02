@@ -1,4 +1,5 @@
-![image](https://github.com/Saleem-Talha/Quote-Generator/assets/121040503/02f09e87-2e3a-4c83-9b84-665ec4937d14)
+![image](https://github.com/Saleem-Talha/Final-Portfolio/assets/121040503/73583b47-ab6e-44bd-be00-be02615a9e5e)
+
 
 # Quote Generator Web App
 
